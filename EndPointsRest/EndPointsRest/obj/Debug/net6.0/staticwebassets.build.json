@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lDBfPUXaUsXUmXjZwGEWONTkiEq17MrNwZKg92r+ksw=",
+  "Source": "EndPointsRest",
+  "BasePath": "_content/EndPointsRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
